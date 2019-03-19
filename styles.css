@@ -1,0 +1,39 @@
+#heading{
+ text-align:center;
+  color:blue;
+}
+#paragraph{
+  
+  margin: 10;
+  line-hieght:normal;
+}
+#heading2{
+  color:blue;
+}
+#enter{
+  
+  border-color:green;}
+  #password{
+    border-style: solid;
+  border-color:green;
+  }
+#male{
+  
+  border-color:green;
+}
+#female{
+
+  border-color:green;
+}
+#checkbox{
+  
+  border-color:green;
+}
+#drop{
+  
+  border-color:green;
+}
+button{
+  background-color:blue;
+  color:white;
+}
